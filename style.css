@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-between;
+   align-items: center; 
+   width: 100%;
+}
+
+
+.navitems{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+}
+body{
+    background-color: bisque;
+    padding: 50px;
+}
+.hero{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+image{
+    width: 200px;
+    height: 350px;
+    border-radius:50%;
+}
